@@ -14,3 +14,11 @@ python -m twine upload repository testpypi dist/*
 ```
 * tell some of your best friend and ask her to try it out: `pip install --index-url https://test/test.pypi.org/ your_aws_algorithm`
 * profit!
+
+
+# REF
+* https://packaging.python.org/en/latest/tutorials/packaging-projects/
+* https://github.com/pypa/hatch
+* https://github.com/jazzband/pip-tools
+* https://hynek.me/til/pip-tools-and-pyproject-toml/
+
